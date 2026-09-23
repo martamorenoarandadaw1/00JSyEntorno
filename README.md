@@ -166,9 +166,9 @@ const EDAD = 42;
 Con let declaras una variable pero su valor se puede modificar las veces que quieras. Con const estás declarando una constante que mantendrá su valor.
 
 10. Indica en el código:
-   1. Si puede evitarse el uso de let. Qué hace
+  1. Si puede evitarse el uso de let. Qué hace?
    Si le quitas el let, le estás reasignando un valor a la variable que has declarado, no declarándola de nuevo.
-   2. Cuántos eventos hay en el código, cuáles son y para qué sirven.
+  2. Cuántos eventos hay en el código, cuáles son y para qué sirven.
    En el script formulario hay dos eventos: DOMContentLoaded que hace que no se ejecute hasta que se ha cargado todo el html, y submit que lo que hace es enviar los datos del formulario.
 
 
